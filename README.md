@@ -47,10 +47,6 @@ This localise-then-extend loop is what makes the reconstruction incremental: eac
 
 After each triangulation and PnP step, reprojection error is computed as a quality metric — the triangulated 3D points are projected back onto the image plane and compared against the original 2D observations. This gives a normalized per-point error (in pixels) that indicates reconstruction quality.
 
-### 6. Bundle Adjustment (Optional)
-
-When enabled, **bundle adjustment** jointly optimizes camera parameters and 3D point positions to minimize total reprojection error across all observations. This is formulated as a nonlinear least-squares problem and solved using `scipy.optimize.least_squares`. Bundle adjustment produces a more globally consistent reconstruction but is significantly slower.
-
 ---
 
 ## Pipeline Summary
@@ -60,7 +56,7 @@ Images → SIFT features → Lowe's filter → Essential Matrix (RANSAC)
        → Initial pose recovery → Triangulation → Seed point cloud
        → For each new image:
              Data association → PnP pose estimation → Triangulate new points
-             → Reprojection check → [Bundle Adjustment] → Extend cloud
+             → Reprojection check → Extend cloud
        → Export PLY point cloud + camera trajectory
 ```
 
