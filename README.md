@@ -1,4 +1,4 @@
-# SLAM 3D Reconstruction
+# 3D Reconstruction
 
 An incremental Structure from Motion (SfM) pipeline that reconstructs a sparse 3D point cloud from a sequence of images, recovering both scene geometry and camera trajectory.
 
