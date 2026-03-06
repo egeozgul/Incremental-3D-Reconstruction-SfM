@@ -10,11 +10,8 @@ Photos taken around this medieval Bosphorus tower serve as the example dataset â
 <img width="850" height="550" alt="kizKulesi" src="https://github.com/user-attachments/assets/26d35f98-d2c4-4ef0-88b5-ab74054397ab" />
 <h3><a href="https://sketchfab.com/models/60328445b7d74ce6aa12ab92feb87c8f/embed?autospin=1&autostart=1&camera=0&ui_hint=0&dnt=1">â†’ Interactive 3D View on Sketchfab</a></h1>
 
-
-
 <img width="850" height="400" alt="Camera trajectory" src="figure_camera_trajectory.png" />
 
-<img width="850" height="400" alt="Point cloud reconstruction" src="figure_point_cloud.png" />
 
 ---
 
