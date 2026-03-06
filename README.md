@@ -19,7 +19,11 @@ Photos taken around this medieval Bosphorus tower serve as the example dataset â
 ## Camera Trajecotry
 <img width="850" height="450" alt="Camera trajectory" src="figure_camera_trajectory.png" />
 
-
+---
+## The Code
+Click on 
+<h3><a href="https://github.com/egeozgul/Incremental-3D-Reconstruction-SfM/blob/main/3D_Reconstruction_of_KizKulesi.ipynb">this</a></h1>
+link to view the code in Jupyter Notebook.
 ---
 
 ## How It Works
