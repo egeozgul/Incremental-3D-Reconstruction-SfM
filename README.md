@@ -22,7 +22,7 @@ Photos taken around this medieval Bosphorus tower serve as the example dataset â
 ---
 ## The Code
 
-Click on <a href="https://nbviewer.org/github/egeozgul/Incremental-3D-Reconstruction-SfM/blob/main/3D_Reconstruction_of__KizKulesi.ipynb">this link</a> to view the code in Jupyter Notebook.
+Click on <a href="https://nbviewer.org/github/egeozgul/Incremental-3D-Reconstruction-SfM/blob/main/3D_Reconstruction_of__KizKulesi.ipynb">this link</a> to view the code in Jupyter Notebook. Do not try to open the jupyter notebook on Github, use the link I provided.
 
 ---
 
