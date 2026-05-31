@@ -10,7 +10,7 @@ Photos taken around this medieval Bosphorus tower serve as the example dataset �
 
 ## 3D Pointcloud of Maiden's Tower
 <a href="https://sketchfab.com/models/60328445b7d74ce6aa12ab92feb87c8f/embed?autospin=1&autostart=1&camera=0&ui_hint=0&dnt=1" target="_blank">
-  <img width="850" src="https://github.com/user-attachments/assets/26d35f98-d2c4-4ef0-88b5-ab74054397ab" alt="Kız Kulesi">
+  <img width="850" src="pointCloud.gif" alt="Kız Kulesi">
 </a>
 
 <h3><a href="https://sketchfab.com/models/60328445b7d74ce6aa12ab92feb87c8f/embed?autospin=1&autostart=1&camera=0&ui_hint=0&dnt=1">Click Here to see the interactive 3D view of the pointcloud</a></h3>
